@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Armen</h1>
-<h3 align="center">Senior JS Engineer</h3>
+<h3 align="center">Senior Software Engineer</h3>
 
 <p align="left">
   Bringing over 7 years of experience as a full-stack engineer, I specialize in the dynamic world of JS technologies, with a focus on crafting exceptional user experiences. Proficient in React.js | Next.js | Node.js | NestJS and related technologies, I navigate the entire web development spectrum. From architecting responsive interfaces that captivate users to optimizing server-side performance for seamless functionality, I am dedicated to pushing the boundaries of what's possible in the digital landscape
