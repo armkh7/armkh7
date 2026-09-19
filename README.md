@@ -7,8 +7,6 @@
   9+ years building scalable web applications, since 2016.
 </p>
 
----
-
 ## 🛠️ What I do
 
 - **Web development**: single page applications, backend services, and REST API design and integration
@@ -40,7 +38,5 @@
   <img src="assets/tech/Docker.svg" alt="Docker" title="Docker" height="40" />
   <img src="assets/tech/git.svg" alt="Git" title="Git" height="40" />
 </p>
-
----
 
 Have a project in mind or want to talk about a role? Reach me on [LinkedIn](https://linkedin.com/in/armen-khachatryan/) or at [armkhachatryan3@gmail.com](mailto:armkhachatryan3@gmail.com).
